@@ -1,0 +1,8 @@
+/*
+ Mirage Wallpaper
+ Copyright © 2026 王孝慈. All rights reserved.
+*/
+
+"NSAudioCaptureUsageDescription" = "motiscape 会采集系统音频，以驱动音频响应式壁纸。";
+"CFBundleName" = "motiscape";
+"CFBundleDisplayName" = "motiscape";
